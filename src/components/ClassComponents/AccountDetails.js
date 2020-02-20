@@ -5,12 +5,12 @@ import Loading from '../UILibrary/Loading';
 import Details from '../UILibrary/ReadOnlyData';
 import PhoneList from '../PureComponents/PhoneList';
 import Layout from '../UILibrary/Layout';
-import { getAccountInfo } from '../../store/actions/accountActions';
+import { getAccountInfo, getAccount } from '../../store/actions/accountActions';
 import togglePhone from '../utils/togglePhone';
 
 class AccountDetails extends React.Component {
     componentDidMount() {
-        this.props.getAccountInfo('1484801092820019308');
+        this.props.getAccount('1484801092820019308');
     }
 
     render() {
@@ -98,5 +98,16 @@ const mapStateToProps = state => ({
     accountCard: state.accountCard,
     errors: state.errors,
 });
-
-export default connect(mapStateToProps, { getAccountInfo })(AccountDetails);
+const mapDispatchToProps = dispatch => {
+    return {
+        getAccountInfo: function(AccountNumber) {
+            dispatch(getAccountInfo(AccountNumber));
+        },
+        getAccount: function(AccountNumber) {
+            dispatch(getAccount(AccountNumber));
+        },
+    };
+};
+export default connect(mapStateToProps, { getAccountInfo, getAccount })(
+    AccountDetails
+);
