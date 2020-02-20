@@ -1,0 +1,87 @@
+@import "../_Variables";
+
+.row-col-container {
+    margin-top: 1.0em;
+
+    >.row {
+        margin-left: -0.75em;
+        margin-right: -0.75em;
+
+        &::after {
+            clear: both;
+            display: block;
+            content: "";
+
+        }
+
+        +.row {
+            margin-top: 1.0em;
+        }
+    }
+}
+
+[class*="column-"] {
+    float: left;
+    margin-top: 0;
+    padding: 0 0.75em;
+}
+
+.clearfix {
+    clear: both;
+}
+
+/*
+.column-1 {
+    width: 8.3333%;
+}
+
+.column-2 {
+    width: 16.6667%;
+}
+
+.column-3 {
+    width: 25%;
+}
+
+.column-4 {
+    width: 33.3333%;
+}
+
+.column-5 {
+    width: 41.6667%;
+}
+
+.column-6 {
+    width: 50%;
+}
+
+.column-7 {
+    width: 58.3333%;
+}
+
+.column-8 {
+    width: 66.6667%;
+}
+
+.column-9 {
+    width: 75%;
+}
+
+.column-10 {
+    width: 83.3333%;
+}
+
+.column-11 {
+    width: 91.6667%
+}
+
+.column-12 {
+    width: 100%;
+}
+*/
+
+@for $i from 1 through 12 {
+    .column-#{$i} {
+        width: percentage($i/12);
+    }
+}

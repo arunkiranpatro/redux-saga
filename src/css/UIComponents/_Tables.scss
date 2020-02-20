@@ -1,0 +1,36 @@
+@import "../_Variables";
+
+.table-container {
+    width: 100%;
+
+    >thead {
+        color: #546e7a;
+        background-color: #FAFAFA;
+        font-size: 14px;
+
+        >tr {
+            border-bottom: 1px solid #000000;
+
+            >th {
+                padding: 0.5em;
+                line-height: 2em;
+                text-align: left;
+
+                &.sortable {
+                    cursor: pointer;
+                }
+            }
+
+        }
+
+    }
+}
+
+.table-container tbody td {
+    line-height: 2em;
+    padding: 0.5em;
+}
+
+.table-container tr:nth-child(even) {
+    background-color: $grey-color;
+}
