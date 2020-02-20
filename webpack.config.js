@@ -13,12 +13,7 @@ module.exports = {
         chunkFilename: '[name].bundle.js',
         path: path.resolve(__dirname, 'dist'),
     },
-    optimization: {
-        splitChunks: {
-            chunks: 'all',
-        },
-    },
-    mode: 'production',
+    mode: 'development',
     module: {
         rules: [
             { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' },
@@ -54,6 +49,5 @@ module.exports = {
         new MomentLocalesPlugin({
             localesToKeep: ['es-us'],
         }),
-        new CompressionPlugin(),
     ],
 };

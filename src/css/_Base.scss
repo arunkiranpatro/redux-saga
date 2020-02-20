@@ -33,8 +33,11 @@ a {
     }
 }
 
-i {
+button.cc-icon {
     padding-left: 0.3em;
+    border: 0;
+    background-color: transparent;
+
 
     &:hover {
         cursor: pointer;

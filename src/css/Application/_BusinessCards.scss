@@ -1,0 +1,28 @@
+@import "../_Variables";
+
+.txn-red {
+    color: $red;
+}
+
+.txn-green {
+    color: $green;
+}
+
+.snapshot-card {
+    border: $grey-border;
+    box-shadow: $box-shadow;
+    background-color: $white;
+    border-radius: 5px;
+    padding: 1em;
+    text-align: center;
+    line-height: 1.5em;
+
+}
+
+.snapshot-card>label {
+    font-size: 0.8em;
+}
+
+.snapshot-card>div {
+    font-size: 1.5em;
+}

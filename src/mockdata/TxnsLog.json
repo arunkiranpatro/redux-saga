@@ -1,0 +1,1928 @@
+﻿{
+  "pxPageCount": "1",
+  "pxResultCount": "32",
+  "pxTotalResultCount": "32",
+  "pxResults": [{
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$11.35 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$11.35 USD",
+      "Status": "Placed",
+
+      "ToFrom": "From The Artisan",
+      "TransactionDate": "2020-02-02T14:14:28.000Z",
+      "TransactionID": "20114507003642015",
+      "TransactionNetAmount": "11.35",
+      "TransactionType": "Temporary Hold",
+      "TransAmountRange": "$11.35 USD",
+      "TransLogBalance": "11.35",
+      "TransLogBalanceCurrency": "$11.35 USD",
+      "TransLogNetAmount": "11.35",
+      "TransLogNetBalance": "$11.35 USD",
+
+      "Balance": {
+        "Amount": "11.35",
+        "AmountCurrency": "11.35 USD",
+        "FormattedAmount": "$11.35 USD",
+        "LocalizedCurrency": "$11.35 USD"
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": "$0.00 USD"
+      },
+      "GrossAmount": {
+        "Amount": "11.35",
+        "AmountCurrency": "11.35 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$11.35 USD",
+        "LocalizedCurrency": "$11.35 USD"
+      },
+      "NetAmount": {
+        "Amount": "11.35",
+        "AmountCurrency": "11.35 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$11.35 USD",
+        "LocalizedCurrency": "$11.35 USD"
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$11.35 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$11.35 USD",
+      "Status": "Placed",
+
+      "ToFrom": "From The Artisan",
+      "TransactionDate": "2020-01-25T13:14:28.000Z",
+      "TransactionID": "20114507003635753",
+      "TransactionNetAmount": "11.35",
+      "TransactionType": "Temporary Hold",
+      "TransAmountRange": "$11.35 USD",
+      "TransLogBalance": "11.35",
+      "TransLogBalanceCurrency": "$11.35 USD",
+      "TransLogNetAmount": "11.35",
+      "TransLogNetBalance": "$11.35 USD",
+
+      "Balance": {
+        "Amount": "11.35",
+        "AmountCurrency": "11.35 USD",
+        "FormattedAmount": "$11.35 USD",
+        "LocalizedCurrency": "$11.35 USD"
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": "$0.00 USD"
+      },
+      "GrossAmount": {
+        "Amount": "11.35",
+        "AmountCurrency": "11.35 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$11.35 USD",
+        "LocalizedCurrency": "$11.35 USD"
+      },
+      "NetAmount": {
+        "Amount": "11.35",
+        "AmountCurrency": "11.35 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$11.35 USD",
+        "LocalizedCurrency": "$11.35 USD"
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "...",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "From ...",
+      "TransactionDate": "2020-01-15T16:25:28.000Z",
+      "TransactionID": "20114574200289376",
+      "TransactionNetAmount": "12.00",
+      "TransactionType": "Charge From Credit Card",
+      "TransAmountRange": "$12.00 USD",
+      "TransLogBalance": "14.00",
+      "TransLogBalanceCurrency": "$14.00 USD",
+      "TransLogNetAmount": "12.00",
+      "TransLogNetBalance": "$12.00 USD",
+
+      "Balance": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": "$14.00 USD"
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": "$0.00 USD"
+      },
+      "GrossAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": "$12.00 USD"
+      },
+      "NetAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": "$12.00 USD"
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114507000019274",
+      "DisputeIndicator": "pi pi-circle-filled DisputeIcon-1x",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Card",
+      "FundingSource": "Credit Card MasterCard Credit Card XXXX-XXXX-XXXX-7186",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$12.00 USD",
+      "Status": "Held",
+
+      "ToFrom": "To The Artisan",
+      "TransactionDate": "2020-01-02T16:35:28.000Z",
+      "TransactionID": "20114507000019273",
+      "TransactionNetAmount": "-12.00",
+      "TransactionType": "Credit Card Payment Sent",
+      "TransAmountRange": "-$12.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-12.00",
+      "TransLogNetBalance": "-$12.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": "$2.00 USD"
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": "$0.00 USD"
+      },
+      "GrossAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": "-$12.00 USD"
+      },
+      "NetAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": "-$12.00 USD"
+      },
+      "TransactionFlagList": ["11", "12", "24", "39"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "...",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "From ...",
+      "TransactionDate": "2020-01-02T16:14:28.000Z",
+      "TransactionID": "20114574200288815",
+      "TransactionNetAmount": "12.00",
+      "TransactionType": "Charge From Credit Card",
+      "TransAmountRange": "$12.00 USD",
+      "TransLogBalance": "14.00",
+      "TransLogBalanceCurrency": "$14.00 USD",
+      "TransLogNetAmount": "12.00",
+      "TransLogNetBalance": "$12.00 USD",
+
+      "Balance": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": "$14.00 USD"
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": "$0.00 USD"
+      },
+      "GrossAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511313268042",
+      "DisputeIndicator": "pi pi-circle-filled DisputeIcon-1x",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Card",
+      "FundingSource": "Credit Card MasterCard Credit Card XXXX-XXXX-XXXX-7186",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$12.00 USD",
+      "Status": "Held",
+
+      "ToFrom": "To The Artisan",
+      "TransactionDate": "2020-01-02T16:14:28.000Z",
+      "TransactionID": "20114511313268041",
+      "TransactionNetAmount": "-12.00",
+      "TransactionType": "Credit Card Payment Sent",
+      "TransAmountRange": "-$12.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-12.00",
+      "TransLogNetBalance": "-$12.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["11", "12", "24", "39"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "...",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "From ...",
+      "TransactionDate": "2019-12-24T16:14:28.000Z",
+      "TransactionID": "20114574200288347",
+      "TransactionNetAmount": "12.00",
+      "TransactionType": "Charge From Credit Card",
+      "TransAmountRange": "$12.00 USD",
+      "TransLogBalance": "14.00",
+      "TransLogBalanceCurrency": "$14.00 USD",
+      "TransLogNetAmount": "12.00",
+      "TransLogNetBalance": "$12.00 USD",
+
+      "Balance": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511313267686",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Card",
+      "FundingSource": "Credit Card MasterCard Credit Card XXXX-XXXX-XXXX-7186",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "To The Artisan",
+      "TransactionDate": "2019-12-02T16:45:28.000Z",
+      "TransactionID": "20114511313267685",
+      "TransactionNetAmount": "-12.00",
+      "TransactionType": "Credit Card Payment Sent",
+      "TransAmountRange": "-$12.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-12.00",
+      "TransLogNetBalance": "-$12.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "...",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "From ...",
+      "TransactionDate": "2019-12-02T16:14:28.000Z",
+      "TransactionID": "20114574200287597",
+      "TransactionNetAmount": "12.00",
+      "TransactionType": "Charge From Credit Card",
+      "TransAmountRange": "$12.00 USD",
+      "TransLogBalance": "14.00",
+      "TransLogBalanceCurrency": "$14.00 USD",
+      "TransLogNetAmount": "12.00",
+      "TransLogNetBalance": "$12.00 USD",
+
+      "Balance": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511313266767",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Card",
+      "FundingSource": "Credit Card MasterCard Credit Card XXXX-XXXX-XXXX-7186",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "To The Artisan",
+      "TransactionDate": "2019-08-02T16:14:28.000Z",
+      "TransactionID": "20114511313266766",
+      "TransactionNetAmount": "-12.00",
+      "TransactionType": "Credit Card Payment Sent",
+      "TransAmountRange": "-$12.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-12.00",
+      "TransLogNetBalance": "-$12.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "...",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Null",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "From ...",
+      "TransactionDate": "2019-08-02T16:14:28.000Z",
+      "TransactionID": "20114574200287041",
+      "TransactionNetAmount": "12.00",
+      "TransactionType": "Charge From Credit Card",
+      "TransAmountRange": "$12.00 USD",
+      "TransLogBalance": "14.00",
+      "TransLogBalanceCurrency": "$14.00 USD",
+      "TransLogNetAmount": "12.00",
+      "TransLogNetBalance": "$12.00 USD",
+
+      "Balance": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": [],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "7186",
+      "CounterPartyAccountNumber": "2062763970225309879",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "The Artisan",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511313265778",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Card",
+      "FundingSource": "Credit Card MasterCard Credit Card XXXX-XXXX-XXXX-7186",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$12.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "To The Artisan",
+      "TransactionDate": "2019-08-02T16:14:28.000Z",
+      "TransactionID": "20114511313265777",
+      "TransactionNetAmount": "-12.00",
+      "TransactionType": "Credit Card Payment Sent",
+      "TransAmountRange": "-$12.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-12.00",
+      "TransLogNetBalance": "-$12.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$21.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$21.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-09-02T16:14:28.000Z",
+      "TransactionID": "20114506999743649",
+      "TransactionNetAmount": "21.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$21.00 USD",
+      "TransLogBalance": "23.00",
+      "TransLogBalanceCurrency": "$23.00 USD",
+      "TransLogNetAmount": "21.00",
+      "TransLogNetBalance": "$21.00 USD",
+
+      "Balance": {
+        "Amount": "23.00",
+        "AmountCurrency": "23.0 USD",
+        "FormattedAmount": "$23.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "21.00",
+        "AmountCurrency": "21.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$21.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "21.00",
+        "AmountCurrency": "21.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$21.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999743646",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$21.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$21.00 USD",
+      "Status": "Completed",
+
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-09-02T16:14:28.000Z",
+      "TransactionID": "20114506999743645",
+      "TransactionNetAmount": "-21.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$21.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-21.00",
+      "TransLogNetBalance": "-$21.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-21.00",
+        "AmountCurrency": "-21.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$21.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-21.00",
+        "AmountCurrency": "-21.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$21.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$20.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$20.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-10-02T16:14:28.000Z",
+      "TransactionID": "20114506999741336",
+      "TransactionNetAmount": "20.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$20.00 USD",
+      "TransLogBalance": "22.00",
+      "TransLogBalanceCurrency": "$22.00 USD",
+      "TransLogNetAmount": "20.00",
+      "TransLogNetBalance": "$20.00 USD",
+
+      "Balance": {
+        "Amount": "22.00",
+        "AmountCurrency": "22.0 USD",
+        "FormattedAmount": "$22.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "20.00",
+        "AmountCurrency": "20.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$20.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "20.00",
+        "AmountCurrency": "20.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$20.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999741333",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$20.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$20.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-10-02T16:14:28.000Z",
+      "TransactionID": "20114506999741332",
+      "TransactionNetAmount": "-20.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$20.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-20.00",
+      "TransLogNetBalance": "-$20.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-20.00",
+        "AmountCurrency": "-20.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$20.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-20.00",
+        "AmountCurrency": "-20.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$20.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$19.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$19.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-10-02T16:14:28.000Z",
+      "TransactionID": "20114506999739667",
+      "TransactionNetAmount": "19.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$19.00 USD",
+      "TransLogBalance": "21.00",
+      "TransLogBalanceCurrency": "$21.00 USD",
+      "TransLogNetAmount": "19.00",
+      "TransLogNetBalance": "$19.00 USD",
+
+      "Balance": {
+        "Amount": "21.00",
+        "AmountCurrency": "21.0 USD",
+        "FormattedAmount": "$21.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "19.00",
+        "AmountCurrency": "19.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$19.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "19.00",
+        "AmountCurrency": "19.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$19.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999739664",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$19.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$19.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-11-02T16:14:28.000Z",
+      "TransactionID": "20114506999739663",
+      "TransactionNetAmount": "-19.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$19.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-19.00",
+      "TransLogNetBalance": "-$19.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-19.00",
+        "AmountCurrency": "-19.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$19.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-19.00",
+        "AmountCurrency": "-19.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$19.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$18.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$18.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-11-02T16:14:28.000Z",
+      "TransactionID": "20114506999735161",
+      "TransactionNetAmount": "18.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$18.00 USD",
+      "TransLogBalance": "20.00",
+      "TransLogBalanceCurrency": "$20.00 USD",
+      "TransLogNetAmount": "18.00",
+      "TransLogNetBalance": "$18.00 USD",
+
+      "Balance": {
+        "Amount": "20.00",
+        "AmountCurrency": "20.0 USD",
+        "FormattedAmount": "$20.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "18.00",
+        "AmountCurrency": "18.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$18.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "18.00",
+        "AmountCurrency": "18.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$18.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999735158",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$18.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$18.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-01-02T16:14:28.000Z",
+      "TransactionID": "20114506999735157",
+      "TransactionNetAmount": "-18.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$18.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-18.00",
+      "TransLogNetBalance": "-$18.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-18.00",
+        "AmountCurrency": "-18.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$18.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-18.00",
+        "AmountCurrency": "-18.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$18.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$17.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$17.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-02-02T16:14:28.000Z",
+      "TransactionID": "20114506999732425",
+      "TransactionNetAmount": "17.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$17.00 USD",
+      "TransLogBalance": "19.00",
+      "TransLogBalanceCurrency": "$19.00 USD",
+      "TransLogNetAmount": "17.00",
+      "TransLogNetBalance": "$17.00 USD",
+
+      "Balance": {
+        "Amount": "19.00",
+        "AmountCurrency": "19.0 USD",
+        "FormattedAmount": "$19.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "17.00",
+        "AmountCurrency": "17.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$17.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "17.00",
+        "AmountCurrency": "17.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$17.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999732422",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$17.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$17.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-03-02T16:14:28.000Z",
+      "TransactionID": "20114506999732421",
+      "TransactionNetAmount": "-17.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$17.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-17.00",
+      "TransLogNetBalance": "-$17.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-17.00",
+        "AmountCurrency": "-17.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$17.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-17.00",
+        "AmountCurrency": "-17.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$17.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$16.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$16.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-04-02T16:14:28.000Z",
+      "TransactionID": "20114511312981549",
+      "TransactionNetAmount": "16.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$16.00 USD",
+      "TransLogBalance": "18.00",
+      "TransLogBalanceCurrency": "$18.00 USD",
+      "TransLogNetAmount": "16.00",
+      "TransLogNetBalance": "$16.00 USD",
+
+      "Balance": {
+        "Amount": "18.00",
+        "AmountCurrency": "18.0 USD",
+        "FormattedAmount": "$18.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "16.00",
+        "AmountCurrency": "16.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$16.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "16.00",
+        "AmountCurrency": "16.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$16.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511312981546",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$16.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$16.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-05-02T16:14:28.000Z",
+      "TransactionID": "20114511312981545",
+      "TransactionNetAmount": "-16.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$16.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-16.00",
+      "TransLogNetBalance": "-$16.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-16.00",
+        "AmountCurrency": "-16.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$16.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-16.00",
+        "AmountCurrency": "-16.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$16.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$15.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$15.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-06-02T16:14:28.000Z",
+      "TransactionID": "20114506999725326",
+      "TransactionNetAmount": "15.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$15.00 USD",
+      "TransLogBalance": "17.00",
+      "TransLogBalanceCurrency": "$17.00 USD",
+      "TransLogNetAmount": "15.00",
+      "TransLogNetBalance": "$15.00 USD",
+
+      "Balance": {
+        "Amount": "17.00",
+        "AmountCurrency": "17.0 USD",
+        "FormattedAmount": "$17.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "15.00",
+        "AmountCurrency": "15.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$15.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "15.00",
+        "AmountCurrency": "15.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$15.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999725323",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$15.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$15.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2019-07-02T16:14:28.000Z",
+      "TransactionID": "20114506999725322",
+      "TransactionNetAmount": "-15.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$15.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-15.00",
+      "TransLogNetBalance": "-$15.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-15.00",
+        "AmountCurrency": "-15.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$15.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-15.00",
+        "AmountCurrency": "-15.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$15.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$14.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$14.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2019-08-02T16:14:28.000Z",
+      "TransactionID": "20114511312976319",
+      "TransactionNetAmount": "14.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$14.00 USD",
+      "TransLogBalance": "16.00",
+      "TransLogBalanceCurrency": "$16.00 USD",
+      "TransLogNetAmount": "14.00",
+      "TransLogNetBalance": "$14.00 USD",
+
+      "Balance": {
+        "Amount": "16.00",
+        "AmountCurrency": "16.0 USD",
+        "FormattedAmount": "$16.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511312976316",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$14.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$14.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2020-02-02T16:14:28.000Z",
+      "TransactionID": "20114511312976315",
+      "TransactionNetAmount": "-14.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$14.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-14.00",
+      "TransLogNetBalance": "-$14.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-14.00",
+        "AmountCurrency": "-14.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-14.00",
+        "AmountCurrency": "-14.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$13.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$13.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2020-02-02T16:14:28.000Z",
+      "TransactionID": "20114506999722486",
+      "TransactionNetAmount": "13.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$13.00 USD",
+      "TransLogBalance": "15.00",
+      "TransLogBalanceCurrency": "$15.00 USD",
+      "TransLogNetAmount": "13.00",
+      "TransLogNetBalance": "$13.00 USD",
+
+      "Balance": {
+        "Amount": "15.00",
+        "AmountCurrency": "15.0 USD",
+        "FormattedAmount": "$15.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "13.00",
+        "AmountCurrency": "13.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$13.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "13.00",
+        "AmountCurrency": "13.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$13.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114506999722483",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$13.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$13.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2020-02-02T16:14:28.000Z",
+      "TransactionID": "20114506999722482",
+      "TransactionNetAmount": "-13.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$13.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-13.00",
+      "TransLogNetBalance": "-$13.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-13.00",
+        "AmountCurrency": "-13.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$13.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-13.00",
+        "AmountCurrency": "-13.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$13.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    },
+    {
+      "CardLast4": "1971",
+      "CounterpartyEmail": "...",
+      "CounterpartyName": "Bank Account",
+      "EmailAddress": "...",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "From",
+
+      "SFTransAmount": "$12.00 USD",
+      "Status": "Processing",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "From Bank Account",
+      "TransactionDate": "2020-02-02T16:14:28.000Z",
+      "TransactionID": "20114511312972360",
+      "TransactionNetAmount": "12.00",
+      "TransactionType": "Inst. Tran. Add Funds from a Bank Account",
+      "TransAmountRange": "$12.00 USD",
+      "TransLogBalance": "14.00",
+      "TransLogBalanceCurrency": "$14.00 USD",
+      "TransLogNetAmount": "12.00",
+      "TransLogNetBalance": "$12.00 USD",
+
+      "Balance": {
+        "Amount": "14.00",
+        "AmountCurrency": "14.0 USD",
+        "FormattedAmount": "$14.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "12.00",
+        "AmountCurrency": "12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18"],
+      "UsdEquivalent": {}
+    },
+    {
+      "BackupFundingSource": "Visa Credit Card XXXX-XXXX-XXXX-3382",
+
+      "CardLast4": "1971",
+      "CounterPartyAccountNumber": "1799949951300477773",
+      "CounterpartyAccountType": "business",
+      "CounterpartyEmail": "test-seller@testmail.com",
+      "CounterpartyName": "Concepcion Web Design",
+      "CounterpartyStatus": "open",
+      "CounterpartyTransactionID": "20114511312972357",
+      "EmailAddress": "test-seller@testmail.com",
+
+      "FinancialInstrument": "Bank",
+      "FundingSource": "Instant Transfer BANK OF AMERICA Checking (Confirmed) x-1971",
+
+      "PositiveTransAmount": "$12.00 USD",
+
+      "pyCaption": "To",
+
+      "SFTransAmount": "-$12.00 USD",
+      "Status": "Completed",
+
+      "Subject": "~@~CLD:1580889600~@~",
+      "ToFrom": "To Concepcion Web Design",
+      "TransactionDate": "2020-02-02T16:14:28.000Z",
+      "TransactionID": "20114511312972356",
+      "TransactionNetAmount": "-12.00",
+      "TransactionType": "Instant Transfer Sent",
+      "TransAmountRange": "-$12.00 USD",
+      "TransLogBalance": "2.00",
+      "TransLogBalanceCurrency": "$2.00 USD",
+      "TransLogNetAmount": "-12.00",
+      "TransLogNetBalance": "-$12.00 USD",
+
+      "Balance": {
+        "Amount": "2.00",
+        "AmountCurrency": "2.0 USD",
+        "FormattedAmount": "$2.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "Fee": {
+        "Amount": "0.00",
+        "AmountCurrency": "0.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "$0.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "GrossAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "NetAmount": {
+        "Amount": "-12.00",
+        "AmountCurrency": "-12.0 USD",
+        "Currency": "USD",
+        "FormattedAmount": "-$12.00 USD",
+        "LocalizedCurrency": ""
+      },
+      "TransactionFlagList": ["17", "18", "24"],
+      "UsdEquivalent": {}
+    }
+  ]
+}

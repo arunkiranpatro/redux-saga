@@ -1,0 +1,83 @@
+{
+    "pxResults": [{
+        "ActionDetails": "Success",
+        "ActivityID": "20114574200289376",
+        "ArtifactIdType": "Master_Card",
+        "ArtifactType": "Charge",
+        "ResponseText": "APPROVED",
+        "RevisedActivityCode": "0",
+        "SummaryText": "Pending",
+        "TransAuthDate": "2020-02-12T17:50:30.000Z",
+        "FIDetails": {
+            "AccountAccess": "003317155666",
+            "Currency": "24.0 USD",
+            "DOE": "Feb 2, 2020 11:50:30 AM",
+            "IssueNumber": "7186",
+            "TransAuthDate": "2020-02-02T17:50:30.000Z"
+        }
+    }, {
+        "ActionDetails": "Success",
+        "ActivityID": "20114574200288815",
+        "ArtifactIdType": "Master_Card",
+        "ArtifactType": "Charge",
+        "ResponseText": "APPROVED",
+        "RevisedActivityCode": "0",
+        "SummaryText": "Pending",
+        "TransAuthDate": "2020-02-10T17:49:50.000Z",
+        "FIDetails": {
+            "AccountAccess": "003317155665",
+            "Currency": "12.0 USD",
+            "DOE": "Feb 2, 2020 11:49:50 AM",
+            "IssueNumber": "7186",
+            "TransAuthDate": "2020-02-02T17:49:50.000Z"
+        }
+    }, {
+        "ActionDetails": "Success",
+        "ActivityID": "20114574200288347",
+        "ArtifactIdType": "Master_Card",
+        "ArtifactType": "Charge",
+        "ResponseText": "APPROVED",
+        "RevisedActivityCode": "0",
+        "SummaryText": "Pending",
+        "TransAuthDate": "2020-02-05T17:49:27.000Z",
+        "FIDetails": {
+            "AccountAccess": "003317155664",
+            "Currency": "12.0 USD",
+            "DOE": "Feb 2, 2020 11:49:27 AM",
+            "IssueNumber": "7186",
+            "TransAuthDate": "2020-02-02T17:49:27.000Z"
+        }
+    }, {
+        "ActionDetails": "Success",
+        "ActivityID": "20114574200287597",
+        "ArtifactIdType": "Master_Card",
+        "ArtifactType": "Charge",
+        "ResponseText": "APPROVED",
+        "RevisedActivityCode": "0",
+        "SummaryText": "Pending",
+        "TransAuthDate": "2020-02-02T17:48:53.000Z",
+        "FIDetails": {
+            "AccountAccess": "003317155663",
+            "Currency": "12.0 USD",
+            "DOE": "Feb 2, 2020 11:48:53 AM",
+            "IssueNumber": "7186",
+            "TransAuthDate": "2020-02-02T17:48:53.000Z"
+        }
+    }, {
+        "ActionDetails": "Success",
+        "ActivityID": "20114574200287041",
+        "ArtifactIdType": "Master_Card",
+        "ArtifactType": "Charge",
+        "ResponseText": "APPROVED",
+        "RevisedActivityCode": "0",
+        "SummaryText": "Pending",
+        "TransAuthDate": "2020-01-12T17:48:06.000Z",
+        "FIDetails": {
+            "AccountAccess": "003317155662",
+            "Currency": "12.0 USD",
+            "DOE": "Feb 2, 2020 11:48:06 AM",
+            "IssueNumber": "7186",
+            "TransAuthDate": "2020-02-02T17:48:06.000Z"
+        }
+    }]
+}

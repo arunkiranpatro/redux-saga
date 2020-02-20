@@ -1,0 +1,43 @@
+{
+    "pxResults": [{
+        "AccountNumber": "1484801092820019308",
+        "ContactChannel": "VOICE",
+        "CreateDateTime": "2020-02-02T17:48:41.832Z",
+        "InteractionType": "phone",
+        "ItemID": "I-99650",
+        "OwnerID": "Arun Kiran Patro",
+        "WorkStatus": "Pending-AgentAction"
+    }, {
+        "AccountNumber": "1484801092820019308",
+        "ContactChannel": "VOICE",
+        "CreateDateTime": "2020-01-29T00:35:11.816Z",
+        "InteractionType": "phone",
+        "ItemID": "I-99278",
+        "OwnerID": "Arun Kiran Patro",
+        "WorkStatus": "Pending-AgentAction"
+    }, {
+        "AccountNumber": "1484801092820019308",
+        "ContactChannel": "CHAT",
+        "CreateDateTime": "2020-01-21T05:27:41.202Z",
+        "InteractionType": "phone",
+        "ItemID": "I-97133",
+        "OwnerID": "Arun Kiran Patro",
+        "WorkStatus": "Pending-AgentAction"
+    }, {
+        "AccountNumber": "1484801092820019308",
+        "ContactChannel": "EMAIL",
+        "CreateDateTime": "2020-01-21T05:24:09.377Z",
+        "InteractionType": "phone",
+        "ItemID": "I-97301",
+        "OwnerID": "Arun Kiran Patro",
+        "WorkStatus": "Pending-AgentAction"
+    }, {
+        "AccountNumber": "1484801092820019308",
+        "ContactChannel": "EMAIL",
+        "CreateDateTime": "2019-12-21T05:24:09.377Z",
+        "InteractionType": "phone",
+        "ItemID": "I-97301",
+        "OwnerID": "Arun Kiran Patro",
+        "WorkStatus": "Complete"
+    }]
+}

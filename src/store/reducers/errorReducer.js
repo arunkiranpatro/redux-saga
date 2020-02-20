@@ -1,4 +1,4 @@
-import { GET_ERRORS, CLEAR_ERRORS, SET_ERRORS } from '../constants';
+import { GET_ERRORS, CLEAR_ERRORS, SET_ERRORS } from "../constants";
 
 const initialState = {
   hasError: false,

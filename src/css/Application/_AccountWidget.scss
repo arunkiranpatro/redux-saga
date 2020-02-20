@@ -1,0 +1,61 @@
+@import "../_Variables";
+
+.phone-values {
+    >div {
+        display: none;
+
+        &:first-child {
+            display: inline-block;
+        }
+
+    }
+}
+
+.phone-values.show-all>div {
+    display: block;
+}
+
+.phone-values {
+    display: inline-block;
+}
+
+.phone-wrapper>label {
+    vertical-align: top;
+}
+
+.phone-wrapper>a {
+    vertical-align: top;
+}
+
+.interaction-header {
+    margin-top: 0;
+    line-height: 1.5em;
+    background-color: $skyblue;
+    color: $white;
+    padding: 1em;
+}
+
+.account-header {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.phone-show-all {
+    color: $white;
+    font-size: 0.8em;
+    border: 0;
+    background-color: transparent;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.interaction-header h2 {
+    margin-top: 0;
+    margin-bottom: 0.4em;
+}
+
+
+.call-reason>.field-value {
+    color: $warning;
+    font-weight: 700;
+}
