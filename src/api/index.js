@@ -12,3 +12,6 @@ const client = axios.create({
 export function getAccountInfo(params) {
     return client.post('/users', params);
 }
+export function getTransactions(params) {
+    return client.get('/transactions/getAll', params);
+}

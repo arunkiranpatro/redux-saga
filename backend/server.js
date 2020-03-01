@@ -1,9 +1,10 @@
-import schema from './graphqlDir/schema';
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const graphqlHTTP = require('express-graphql');
+const schema = require('./graphqlDir/schema');
+const resolver = require('./graphqlDir/resolvers');
 
 const users = require('./routes/api/users');
 const transactions = require('./routes/api/transactions');
@@ -27,12 +28,12 @@ mongoose
     .then(() => console.log('db connected'))
     .catch(err => console.log(err));
 
-const root = { hello: () => 'hi I am graphql' };
+
 app.use(
     '/graphql',
     graphqlHTTP({
         schema: schema,
-        rootValue: root,
+        rootValue: resolver,
         graphiql: true,
     })
 );

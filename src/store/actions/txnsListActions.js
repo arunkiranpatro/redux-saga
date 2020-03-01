@@ -10,3 +10,7 @@ export const getTxnslist = () => dispatch => {
     payload: txns.pxResults
   });
 };
+
+export const getTransactions = accountNumber => {
+  return { type: 'GET_TXNSLIST_REQUEST', accountNumber };
+};

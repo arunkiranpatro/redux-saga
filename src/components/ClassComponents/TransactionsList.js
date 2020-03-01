@@ -7,7 +7,7 @@ import TableColumn from "../UILibrary/TableColumn";
 import TableRows from "../UILibrary/TableRows";
 import TableRow from "../UILibrary/TableRow";
 
-import { getTxnslist } from "../../store/actions/txnsListActions";
+import { getTxnslist, getTransactions } from "../../store/actions/txnsListActions";
 import TableColumns from "../UILibrary/TableColumns";
 
 const Moment = React.lazy(() => import("react-moment"));
@@ -19,7 +19,7 @@ class TransactionsList extends React.Component {
     this.renderTableHeader = this.renderTableHeader.bind(this);
   }
   componentDidMount() {
-    this.props.getTxnslist();
+    this.props.getTransactions('A9814450173');
   }
 
   renderTablebody(txns) {
@@ -28,15 +28,15 @@ class TransactionsList extends React.Component {
         <TableRow>
           <Suspense fallback={<Loading />}>
             <Moment format="DD-MM-YYYY hh:mm a">
-              {result.TransactionDate}
+              {result.txn_date}
             </Moment>
           </Suspense>
         </TableRow>
-        <TableRow>{result.TransactionID}</TableRow>
-        <TableRow>{result.TransactionType}</TableRow>
-        <TableRow>{result.CounterpartyEmail}</TableRow>
-        <TableRow>{result.NetAmount.AmountCurrency}</TableRow>
-        <TableRow>{result.TransLogBalanceCurrency}</TableRow>
+        <TableRow>{result.txn_id}</TableRow>
+        <TableRow>{result.txn_type}</TableRow>
+        <TableRow>{result.cp_email}</TableRow>
+        <TableRow>{result.txn_status}</TableRow>
+        <TableRow>{result.txn_gross_amount}</TableRow>
       </TableRows>
     ));
     return childBody;
@@ -45,20 +45,20 @@ class TransactionsList extends React.Component {
   renderTableHeader(props) {
     return (
       <TableColumns {...props}>
-        <TableColumn id="TransactionDate" sortable>
+        <TableColumn id="txn_date" sortable>
           Transaction Date
         </TableColumn>
-        <TableColumn id="TransactionID" sortable>
+        <TableColumn id="txn_id" sortable>
           Transaction ID
         </TableColumn>
-        <TableColumn id="TransactionType" sortable>
+        <TableColumn id="txn_type" sortable>
           Transaction Type
         </TableColumn>
-        <TableColumn id="CounterpartyEmail">Counter Party Email</TableColumn>
-        <TableColumn id="NetAmount.Amount" sortable>
-          Net Amount
+        <TableColumn id="cp_email">Counter Party Email</TableColumn>
+        <TableColumn id="txn_status" sortable>
+          Status
         </TableColumn>
-        <TableColumn id="TransLogBalanceCurrency">Net Balance</TableColumn>
+        <TableColumn id="txn_gross_amount">Net Balance</TableColumn>
       </TableColumns>
     );
   }
@@ -95,4 +95,4 @@ const mapStateToProps = state => ({
   errors: state.errors
 });
 
-export default connect(mapStateToProps, { getTxnslist })(TransactionsList);
+export default connect(mapStateToProps, { getTxnslist, getTransactions })(TransactionsList);
