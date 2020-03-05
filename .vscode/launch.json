@@ -10,7 +10,7 @@
             "name": "Jest Tests",
             "program": "${workspaceFolder}/node_modules/.bin/jest",
             "args": [
-                "${workspaceFolder}/src/__tests__/UILibrary/AccountActions.js"
+                "${workspaceFolder}/src/__tests__/UILibrary/TransactionsListSaga.test.js"
             ],
             "skipFiles": [
                 "<node_internals>/**"
