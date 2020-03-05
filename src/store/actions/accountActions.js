@@ -7,11 +7,10 @@ export const getAccountInfo = accountNumber => dispatch => {
     dispatch({
         type: SET_ACCOUNT_LOADING,
     });
-    api.getAccountInfo({
+    return api.getAccountInfo({
         account_number: accountNumber,
     })
         .then(res => {
-            debugger;
             dispatch({
                 type: GET_ACCOUNT,
                 payload: res.data,

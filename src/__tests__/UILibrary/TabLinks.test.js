@@ -22,7 +22,6 @@ describe('A TabLink Test Suite', () => {
         <TabLink id="2">Tab-2</TabLink>
       </TabLinks>
     );
-    console.log(markup.html());
     expect(markup.find('li')).toHaveLength(2);
     expect(
       markup
